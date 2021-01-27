@@ -1,2 +1,2 @@
-# CTSDD
+# ScannersGoMobile
 Senior Design Project
