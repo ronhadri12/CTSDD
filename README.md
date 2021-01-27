@@ -1,2 +1,2 @@
 # ScannersGoMobile
-Senior Design Project
+Mobile Scanner Project
